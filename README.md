@@ -71,8 +71,8 @@ Aqui compartilho alguns projetos e tecnologias que venho desenvolvendo durante m
 
 # 📫 Contato
 
-💼 https://linkedin.com/in/SEU-USUARIO  
-🐙 https://github.com/SEU-USUARIO
+💼 https://www.linkedin.com/in/c2rnan/  
+🐙 https://github.com/c2rnan
 
 ---
 
